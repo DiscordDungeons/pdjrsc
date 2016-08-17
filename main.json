@@ -1,8 +1,8 @@
 {
     "room": "Discord Dungeons",
     "author": "Snazzah",
-    "icon": "https://rawgit.com/DiscordDungeons/pdjrcs/master/icon.png",
-    "css": "https://rawgit.com/DiscordDungeons/pdjrcs/master/main.css",
+    "icon": "https://rawgit.com/DiscordDungeons/pdjrsc/master/icon.png",
+    "css": "https://rawgit.com/DiscordDungeons/pdjrsc/master/main.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -28,11 +28,11 @@
     },
     "images": {
         "background": "https://cdn.radiant.dj/rcs/bg/2k15island.jpg",
-        "playback": "https://rawgit.com/DiscordDungeons/pdjrcs/master/playback.png",
+        "playback": "https://rawgit.com/DiscordDungeons/pdjrsc/master/playback.png",
         "admin": null,
         "ambassador": null,
-        "host": "https://rawgit.com/DiscordDungeons/pdjrcs/master/icon.png",
-        "cohost": "https://rawgit.com/DiscordDungeons/pdjrcs/master/icon.png",
+        "host": "https://rawgit.com/DiscordDungeons/pdjrsc/master/icon.png",
+        "cohost": "https://rawgit.com/DiscordDungeons/pdjrsc/master/icon.png",
         "manager": null,
         "bouncer": null,
         "rdj": null,
@@ -40,9 +40,9 @@
         "silversubscriber": null
     },
     "emotes": {
-    	"dd": "https://rawgit.com/DiscordDungeons/pdjrcs/master/icon.png",
-    	"woot": "https://rawgit.com/DiscordDungeons/pdjrcs/master/woot.png",
-    	"meh": "https://rawgit.com/DiscordDungeons/pdjrcs/master/meh.png",
-    	"grab": "https://rawgit.com/DiscordDungeons/pdjrcs/master/grab.png"
+    	"dd": "https://rawgit.com/DiscordDungeons/pdjrsc/master/icon.png",
+    	"woot": "https://rawgit.com/DiscordDungeons/pdjrsc/master/woot.png",
+    	"meh": "https://rawgit.com/DiscordDungeons/pdjrsc/master/meh.png",
+    	"grab": "https://rawgit.com/DiscordDungeons/pdjrsc/master/grab.png"
     }
 }
