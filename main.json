@@ -1,0 +1,48 @@
+{
+    "room": "Discord Dungeons",
+    "author": "Snazzah",
+    "icon": "https://rawgit.com/DiscordDungeons/pdjrcs/master/icon.png",
+    "css": "https://rawgit.com/DiscordDungeons/pdjrcs/master/main.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": "#FF8C00",
+        "host": "#e32524",
+        "cohost": "#e32524",
+        "manager": "#ff7e00",
+        "bouncer": "#ff7e00",
+        "rdj": "#ff7e00",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "https://cdn.radiant.dj/rcs/bg/2k15island.jpg",
+        "playback": "https://rawgit.com/DiscordDungeons/pdjrcs/master/playback.png",
+        "admin": null,
+        "ambassador": null,
+        "host": "https://rawgit.com/DiscordDungeons/pdjrcs/master/icon.png",
+        "cohost": "https://rawgit.com/DiscordDungeons/pdjrcs/master/icon.png",
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"dd": "https://rawgit.com/DiscordDungeons/pdjrcs/master/icon.png",
+    	"woot": "https://rawgit.com/DiscordDungeons/pdjrcs/master/woot.png",
+    	"meh": "https://rawgit.com/DiscordDungeons/pdjrcs/master/meh.png",
+    	"grab": "https://rawgit.com/DiscordDungeons/pdjrcs/master/grab.png"
+    }
+}
