@@ -43,10 +43,11 @@ background: rgba(0,0,0,0.5) !important;
     background-color: rgba(0, 0, 0, 0.25) !important;
 }
 #chat .mention, #chat .mention:nth-child(2n+1),  #chat .mention.is-dj, #chat .mention.is-staff, #chat .mention.is-dj:nth-child(2n+1), #chat .mention.is-staff:nth-child(2n+1) {
-    background: linear-gradient(to left, rgba(236,202,16,0.3) 0%,rgba(0,0,0,0.75) 100%) !important;
+    background: rgba(250, 166, 25, 0.3) !important;
+    border-left: #faa61a 3px solid;
 }
 #user-lists .list .user:hover, #waitlist .list .user {
-	background: linear-gradient(to right, rgba(236,202,16,0.2) 0%,rgba(0,0,0,0) 100%) !important;
+	background: linear-gradient(to right, rgba(255,255,255,0.3) 0%,rgba(0,0,0,0.75) 100%) !important;
 }
 #chat .msg .text .name, #chat .msg .text .name .name {
     color: #FFF !important;
@@ -54,6 +55,11 @@ background: rgba(0,0,0,0.5) !important;
 #chat .msg .text .name, #chat .msg .text .name .name {
     color: #FFF !important;
 }
+
+#waitlist .list .user.locked .icon-x-white, #waitlist .list.bouncer .user .icon-x-white, #waitlist .list.manager .user.locked .icon-x-white {
+    color: #c42e3b;
+}
+
 #rcs-progress-container .bar {
     background: #FFF !important;
 }
