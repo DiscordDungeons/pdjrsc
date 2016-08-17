@@ -1,0 +1,13 @@
+/* Snazzah */
+[data-cid^="5133476-"] .badge-box .bdg {
+    background-image: url("https://rawgit.com/DiscordDungeons/pdjrsc/master/snazzah.png") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-5133476 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("https://rawgit.com/DiscordDungeons/pdjrsc/master/snazzah.png") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+/* Snazzah */
