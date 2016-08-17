@@ -1,7 +1,7 @@
 {
     "room": "Discord Dungeons",
     "author": "Snazzah",
-    "icon": "https://rawgit.com/DiscordDungeons/pdjrsc/master/icon.png",
+    "icon": "https://rawgit.com/DiscordDungeons/pdjrsc/master/dddj.png",
     "css": "https://rawgit.com/DiscordDungeons/pdjrsc/master/main.css",
     "rules": {
         "allowAutorespond": true,
@@ -41,6 +41,7 @@
     },
     "emotes": {
     	"dd": "https://rawgit.com/DiscordDungeons/pdjrsc/master/icon.png",
+    	"dddj": "https://rawgit.com/DiscordDungeons/pdjrsc/master/dddj.png",
     	"woot": "https://rawgit.com/DiscordDungeons/pdjrsc/master/woot.png",
     	"meh": "https://rawgit.com/DiscordDungeons/pdjrsc/master/meh.png",
     	"grab": "https://rawgit.com/DiscordDungeons/pdjrsc/master/grab.png"
