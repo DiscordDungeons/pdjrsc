@@ -42,6 +42,10 @@ background: #aa74ff;
 }
 */
 
+#vote .crowd-response .selected {
+    animation: bounce 0.25s 1;
+}
+
 #vote .crowd-response .value {
     animation: pulse 0.25s 1;
 }
