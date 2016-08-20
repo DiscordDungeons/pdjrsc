@@ -96,6 +96,14 @@ background: #aa74ff;
     animation: swayinR 0.5s ease 1;
 }
 
+#chat .delete-button:hover, .rcs-delete:hover {
+	animation: zoomRotate 0.5s ease 1 forwards;
+}
+
+@keyframes zoomRotate {
+    100% {transform: scale(1.2), rotate(20deg); }
+}
+
 @keyframes swing {
     0% {transform: rotate(20deg);}
     50% {transform: rotate(-20deg);}
