@@ -1,0 +1,122 @@
+/* Woot Add Meh */
+#woot .bottom, #woot.selected {
+background: #25b961 !important;
+}
+.votes-rs .title.woot {
+background: #25b961 !important;
+}
+#grab .bottom, #grab.selected {
+background: #aa74ff;
+}
+.votes-rs .title.grab {
+    background: #aa74ff !important;
+}
+#meh .bottom, #meh.selected {
+    background: #c42e3b;
+}
+.votes-rs .title.meh {
+    background: #c42e3b !important;
+}
+.votes-rs .title {
+    border-radius: 0px 0px 0px 10px;
+}
+#now-playing-bar, #history-button, #rs-skip-button, #playlist-menu, #user-menu, #room-settings-menu, .app-right .friends, .badge-box {
+    background: none !important;
+}
+#woot.selected .icon, #grab.selected .icon, #meh.selected .icon {
+    animation: pulse 1s ease infinite;
+}
+#vote .crowd-response .top .icon-woot, #user-lists .list.room .user .icon-woot {
+    background: url('https://rawgit.com/DiscordDungeons/pdjrsc/master/woot.png') !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+}
+
+/*
+.votes-rs[style~=block] {
+    animation: popUp 0.5s 1;
+}
+
+.votes-rs .voteslist {
+    animation: popUp2 0.5s 1;
+}
+*/
+
+#vote .crowd-response .value {
+    animation: pulse 0.25s 1;
+}
+
+@keyframes bounce {
+    0% {bottom: 0px;}
+    50% {bottom: 30px;}
+    100% {bottom: 0px;}
+}
+
+@keyframes popUp {
+    0% {height: 0px; top: 200px;}
+    100% {height: 200px; top: 0px;}
+}
+
+
+@keyframes popUp2 {
+    0% {height: 0px;}
+    100% {height: 175px;}
+}
+
+@keyframes pulse {
+  0% {transform: scale(1);}
+  50% {transform: scale(1.5);}
+  100% {transform: scale(1);}
+}
+/* Woot Add Meh */
+
+/* Volume Slider */
+#volume .slider .line {
+    height: 13px;
+    top: 6px;
+    border-radius: 6px 6px 6px 6px;
+    background: rgba(128, 134, 145, 0.2);
+}
+/* Volume Slider */
+
+/* Chat */
+#history-button:hover, #skip-button:hover {
+    animation: swing 0.5s ease infinite;
+}
+
+.msg {
+    animation: swayinL 0.5s ease 1;
+}
+
+#chat .cm .badge-box {
+    animation: swayinR 0.5s ease 1;
+}
+
+@keyframes swing {
+    0% {transform: rotate(20deg);}
+    50% {transform: rotate(-20deg);}
+    100% {transform: rotate(20deg);}
+}
+
+@keyframes swayinL {
+    0% {left: 20px; opacity: 0;}
+    100% {left: 0px; opacity: 1;}
+}
+
+@keyframes swayinR {
+    0% {right: 10px; opacity: 0;}
+    100% {right: 0px; opacity: 1;}
+}
+/* Chat */
+
+/* Misc */
+#history-button:hover, #skip-button:hover {
+    animation: swing 0.5s ease infinite;
+}
+
+@keyframes swing {
+    0% {transform: rotate(20deg);}
+    50% {transform: rotate(-20deg);}
+    100% {transform: rotate(20deg);}
+}
+/* Misc */

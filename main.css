@@ -1,5 +1,8 @@
+/* Users Import */
 @import url("https://rawgit.com/DiscordDungeons/pdjrsc/master/concept.css");
 @import url("https://rawgit.com/DiscordDungeons/pdjrsc/master/snazzah.css");
+/* Users Import */
+@import url("https://rawgit.com/DiscordDungeons/pdjrsc/master/reactions.css");
 
 .icon-room { 
 	width: 75px !important;
