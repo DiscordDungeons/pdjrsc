@@ -42,7 +42,7 @@ background: #aa74ff;
 }
 */
 
-#vote .crowd-response .selected {
+#vote .crowd-response.selected {
     animation: bounce 0.25s 1;
 }
 
