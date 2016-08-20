@@ -110,7 +110,7 @@ background: #aa74ff;
 /* Chat */
 
 /* Misc */
-#history-button:hover, #skip-button:hover {
+#history-button:hover, #rs-skip-button:hover {
     animation: swing 0.5s ease infinite;
 }
 
