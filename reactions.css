@@ -132,3 +132,67 @@ background: #aa74ff;
     100% {transform: rotate(20deg);}
 }
 /* Misc */
+
+/* Transparent User Rollover by Wlff */
+
+#footer-user .buttons .store.button,#footer-user .buttons .button,
+#user-rollover .action{
+        -webkit-transition:     all 0.3s ease;
+        -moz-transition:        all 0.3s ease;
+        -o-transition:          all 0.3s ease;
+        transition:             all 0.3s ease;
+}
+#user-rollover .action.skip:hover{
+    -webkit-box-shadow:     inset 300px 0 0 0 rgba(0, 106, 218, 0.3) !important;
+    -moz-box-shadow:        inset 300px 0 0 0 rgba(0, 106, 218, 0.3) !important;
+    -o-box-shadow:          inset 300px 0 0 0 rgba(0, 106, 218, 0.3) !important;
+    box-shadow:             inset 300px 0 0 0 rgba(0, 106, 218, 0.3) !important;
+}
+#user-rollover .actions .action:hover {
+    background: rgba(0, 0, 0, 0.4);
+}
+#user-rollover .actions .action.mod-staff:hover {
+    background: rgba(24, 0, 27, 0.4);
+}
+#user-rollover .actions .action.ignore:hover,
+#user-rollover .actions .action.mod-ban:hover,
+#user-rollover .actions .action.mod-mute:hover {
+    background: rgba(28, 0, 0, 0.4);
+}
+#user-rollover .actions .action.giftsub:hover{
+	background: rgba(68, 45, 0, 0.4);
+}
+#user-rollover .actions .action.giftsub:hover span {
+   text-shadow: 0 0 10px #E59900;
+}
+#footer-user .buttons .button:hover {
+    background: rgba(0, 0, 0, 0.31);
+}
+#footer-user .buttons .button.inventory:hover {
+    -webkit-box-shadow: inset 1px 0 0 0 rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: inset 1px 0 0 0 rgba(0, 0, 0, 0.25);
+    box-shadow: inset 1px 0 0 0 rgba(0, 0, 0, 0.25);
+}
+#footer-user .buttons .button.store:hover {
+    background: rgba(0, 181, 230, 0.25);
+}
+#user-rollover {
+   background: rgba(0, 0, 0, 0.56) !important;
+}
+#user-rollover .info{
+    background: rgba(0, 0, 0, 0.18);
+}
+#user-rollover.expand.chat .arrow-down {
+   border-left: 8px solid rgba(0, 0, 0, 0.4) !important;
+}
+#user-rollover .actions .action{
+box-shadow: inset 1px 1px 0 0 rgba(0, 0, 0, 0.22);
+}
+#user-rollover.id-4412452 .thumb {
+    border-color: rgb(36, 175, 130) !important;
+}
+#user-rollover .meta.subscriber .status span {
+   text-shadow: 0 0 10px #E59900;
+}
+
+/* Transparent User Rollover by Wlff */
