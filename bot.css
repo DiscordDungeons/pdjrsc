@@ -1,12 +1,12 @@
 /* Bot */
 [data-cid^="17880504-"] .badge-box .bdg {
-    background-image: url("https://rawgit.com/DiscordDungeons/pdjrsc/master/bot.png") !important;
+    background-image: url("https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/bot.png") !important;
     background-repeat: round !important;
     background-size: 30px !important;
 }
 #user-rollover.id-17880504 .badge-box .bdg {
     border-radius: 5px !important;
-    background-image: url("https://rawgit.com/DiscordDungeons/pdjrsc/master/bot.png") !important;
+    background-image: url("https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/bot.png") !important;
     background-repeat: round !important;
     background-size: 30px !important;
 }
@@ -16,6 +16,6 @@
 }
 
 .id-17880504 .msg .icon {
-    background: url('https://rawgit.com/DiscordDungeons/pdjrsc/master/botrank.png') !important;
+    background: url('https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/botrank.png') !important;
 }
 /* Bot */
