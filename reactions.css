@@ -27,7 +27,7 @@ background: #aa74ff;
     animation: pulse 1s ease infinite;
 }
 #vote .crowd-response .top .icon-woot, #user-lists .list.room .user .icon-woot {
-    background: url('https://rawgit.com/DiscordDungeons/pdjrsc/master/woot.png') !important;
+    background: url('https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/woot.png') !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
 }
