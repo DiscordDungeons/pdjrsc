@@ -1,9 +1,9 @@
 /* Users Import */
-@import url("https://rawgit.com/DiscordDungeons/pdjrsc/master/concept.css");
-@import url("https://rawgit.com/DiscordDungeons/pdjrsc/master/snazzah.css");
-@import url("https://rawgit.com/DiscordDungeons/pdjrsc/master/bot.css");
+@import url("https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/concept.css");
+@import url("https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/snazzah.css");
+@import url("https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/bot.css");
 /* Users Import */
-@import url("https://rawgit.com/DiscordDungeons/pdjrsc/master/reactions.css");
+@import url("https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/reactions.css");
 
 .icon-room { 
 	width: 75px !important;
