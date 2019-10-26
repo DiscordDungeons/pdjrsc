@@ -1,12 +1,12 @@
 /* Concept */
 [data-cid^="6482301-"] .badge-box .bdg {
-    background-image: url("https://rawgit.com/DiscordDungeons/pdjrsc/master/concept.png") !important;
+    background-image: url("https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/concept.png") !important;
     background-repeat: round !important;
     background-size: 30px !important;
 }
 #user-rollover.id-6482301 .badge-box .bdg {
     border-radius: 5px !important;
-    background-image: url("https://rawgit.com/DiscordDungeons/pdjrsc/master/concept.png") !important;
+    background-image: url("https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/concept.png") !important;
     background-repeat: round !important;
     background-size: 30px !important;
 }
