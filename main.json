@@ -1,8 +1,8 @@
 {
     "room": "Discord Dungeons",
     "author": "Snazzah",
-    "icon": "https://rawgit.com/DiscordDungeons/pdjrsc/master/dddj.png",
-    "css": "https://rawgit.com/DiscordDungeons/pdjrsc/master/main.css",
+    "icon": "https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/dddj.png",
+    "css": "https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/main.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -28,22 +28,22 @@
     },
     "images": {
         "background": "https://cdn.radiant.dj/rcs/bg/2k15island.jpg",
-        "playback": "https://rawgit.com/DiscordDungeons/pdjrsc/master/playback.png",
+        "playback": "https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/playback.png",
         "admin": null,
         "ambassador": null,
-        "host": "https://rawgit.com/DiscordDungeons/pdjrsc/master/host.png",
-        "cohost": "https://rawgit.com/DiscordDungeons/pdjrsc/master/host.png",
+        "host": "https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/host.png",
+        "cohost": "https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/host.png",
         "manager": null,
-        "bouncer": "https://rawgit.com/DiscordDungeons/pdjrsc/master/manager.png",
-        "rdj": "https://rawgit.com/DiscordDungeons/pdjrsc/master/dj.png",
+        "bouncer": "https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/manager.png",
+        "rdj": "https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/dj.png",
         "subscriber": null,
         "silversubscriber": null
     },
     "emotes": {
-    	"dd": "https://rawgit.com/DiscordDungeons/pdjrsc/master/icon.png",
-    	"dddj": "https://rawgit.com/DiscordDungeons/pdjrsc/master/dddj.png",
-    	"woot": "https://rawgit.com/DiscordDungeons/pdjrsc/master/woot.png",
-    	"meh": "https://rawgit.com/DiscordDungeons/pdjrsc/master/meh.png",
-    	"grab": "https://rawgit.com/DiscordDungeons/pdjrsc/master/grab.png"
+    	"dd": "https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/icon.png",
+    	"dddj": "https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/dddj.png",
+    	"woot": "https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/woot.png",
+    	"meh": "https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/meh.png",
+    	"grab": "https://cdn.jsdelivr.net/gh/DiscordDungeons/pdjrsc/grab.png"
     }
 }
